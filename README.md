@@ -19,6 +19,9 @@ Past Projects:
 - - Shoo Social Media - Marketing company offering services to businesses across the UK.
 - - TriTech - Working on the Suicide Prevention UK site for charity.
 - - Subrosa - Company handling goods between major food retailers in the UK and their suppliers.
+- - CSGORoyale - CS:GO Skins Gambling Site with roulette.
+- - CSGO-Pixels.net - CS:GO Skins Gambling site with roulette & coinflip.
+- - CSGOBucks - CS:GO Skins Gambling site with roulette.
 
 Qualifications:
 - BSc Computer Science - Leeds Trinity University (Pending)
