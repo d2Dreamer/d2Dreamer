@@ -1,16 +1,33 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&lines=d2Dreamer;Blockchain+Enthusiast;Full+Stack+Developer)](https://git.io/typing-svg)
 
-<!--
-**d2Dreamer/d2Dreamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UK Based Full Stack Developer, involved in the Cryptosphere since 2013 and building in it ever since. 
 
-Here are some ideas to get you started:
+Current Projects:
+- TowneSquare - Web3 Social Media Platform built on Solana & Aptos.
+- Mining Central - Cryptocurrency Mining Company, bringing mining to Cloud for people to enter the industry without having to run the hardware themselves.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Past Projects:
+- Web3
+- - Decadent Blockchain Solutions - Bringing Web3 Mobile Gaming to WAXP Network, based on EOS.
+- - NextColony - NFT Space Game based on STEEM.
+- - Crypos - Bringing Masternodes to the masses by allowing for collaborative funding of collateral, with auto-reinvesting of funds earned.
+- - SippyCupTrading - Platform in which users paid a monthly subscription to get premium investment advice.
+- - UseHODL - Blog posts surrounding cryptocurrency.
+- Web2
+- - ElbowSpace - Platform making site building easy for Student Unions across the UK.
+- - Shoo Social Media - Marketing company offering services to businesses across the UK.
+- - TriTech - Working on the Suicide Prevention UK site for charity.
+- - Subrosa - Company handling goods between major food retailers in the UK and their suppliers.
+
+Qualifications:
+- BSc Computer Science - Leeds Trinity University
+- BTEC Level 3 Extended Diploma Computer Science - Runshaw College
+
+Certifications:
+- Foundational Cloud Practitioner - Amazon Web Services
+
+Contact Details:
+Email - jhughes2702@gmail.com
+Discord - Dreamer#6463
+
+Currently open to remote roles.
