@@ -13,6 +13,7 @@ Past Projects:
 - - Crypos - Bringing Masternodes to the masses by allowing for collaborative funding of collateral, with auto-reinvesting of funds earned.
 - - SippyCupTrading - Platform in which users paid a monthly subscription to get premium investment advice.
 - - UseHODL - Blog posts surrounding cryptocurrency.
+- - Personal trading bots for use on Binance using Python.
 - Web2
 - - ElbowSpace - Platform making site building easy for Student Unions across the UK.
 - - Shoo Social Media - Marketing company offering services to businesses across the UK.
