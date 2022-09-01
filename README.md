@@ -20,7 +20,7 @@ Past Projects:
 - - Subrosa - Company handling goods between major food retailers in the UK and their suppliers.
 
 Qualifications:
-- BSc Computer Science - Leeds Trinity University
+- BSc Computer Science - Leeds Trinity University (Pending)
 - BTEC Level 3 Extended Diploma Computer Science - Runshaw College
 
 Certifications:
