@@ -18,9 +18,8 @@ Past Projects:
 - - ElbowSpace - Platform making site building easy for Student Unions across the UK.
 - - Shoo Social Media - Marketing company offering services to businesses across the UK.
 - - TriTech - Working on the Suicide Prevention UK site for charity.
-- - Subrosa - Company handling goods between major food retailers in the UK and their suppliers.
 - - CSGORoyale - CS:GO Skins Gambling Site with roulette.
-- - CSGO-Pixels - CS:GO Skins Gambling site with roulette & coinflip & jackpot.
+- - CSGO-Pixels - CS:GO Skins Gambling site with roulette, coinflip & jackpot.
 - - CSGOBucks - CS:GO Skins Gambling site with roulette & jackpot.
 
 Qualifications:
