@@ -3,7 +3,7 @@
 UK Based Full Stack Developer, involved in the Cryptosphere since 2013 and building in it ever since. 
 
 Current Projects:
-- TowneSquare - Web3 Social Media Platform built on Solana & Aptos.
+- TowneSquare - Web3 Social Media Platform built on Aptos.
 - Mining Central - Cryptocurrency Mining Company, bringing mining to Cloud for people to enter the industry without having to run the hardware themselves.
 
 Past Projects:
