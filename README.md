@@ -31,6 +31,6 @@ Certifications:
 
 Contact Details:
 Email - jhughes2702@gmail.com
-Discord - Dreamer#6463
+Discord - d2dreamer
 
 Currently open to remote roles.
