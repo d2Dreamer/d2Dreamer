@@ -23,7 +23,7 @@ Past Projects:
 - - CSGOBucks - CS:GO Skins Gambling site with roulette & jackpot.
 
 Qualifications:
-- BSc Computer Science - Leeds Trinity University (Pending)
+- Diploma of Higher Education Computer Science - Leeds Trinity University
 - BTEC Level 3 Extended Diploma Computer Science - Runshaw College
 
 Certifications:
