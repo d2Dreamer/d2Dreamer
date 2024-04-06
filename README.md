@@ -29,6 +29,9 @@ Qualifications:
 Certifications:
 - Foundational Cloud Practitioner - Amazon Web Services
 
+Awards:
+- Social Media Chief Technology Officer of the Year 2024 - CEO Monthly
+
 Contact Details:
 Email - jhughes2702@gmail.com
 Discord - d2dreamer
