@@ -1,17 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&lines=d2Dreamer;Blockchain+Enthusiast;Full+Stack+Developer)](https://git.io/typing-svg)
 
-UK Based Full Stack Developer, involved in the Cryptosphere since 2013 and building in it ever since. 
+UK-based Full Stack Developer, involved in the Cryptosphere since 2013 and have been building in it ever since. 
 
 Current Projects:
 - TowneSquare - Web3 Social Media Platform built on Aptos.
 - Mining Central - Cryptocurrency Mining Company, bringing mining to Cloud for people to enter the industry without having to run the hardware themselves.
+- Strike - Web3 Football Club Stocks.
 
 Past Projects:
 - Web3
 - - Decadent Blockchain Solutions - Bringing Web3 Mobile Gaming to WAXP Network, based on EOS.
 - - NextColony - NFT Space Game based on STEEM.
-- - Crypos - Bringing Masternodes to the masses by allowing for collaborative funding of collateral, with auto-reinvesting of funds earned.
-- - SippyCupTrading - Platform in which users paid a monthly subscription to get premium investment advice.
+- - Crypos - Bringing Masternodes to the masses by allowing for collaborative collateral funding, with auto-reinvesting of funds earned.
+- - SippyCupTrading - Platform where users pay a monthly subscription to get premium investment advice.
 - - UseHODL - Blog posts surrounding cryptocurrency.
 - - Personal trading bots for use on Binance using Python.
 - Web2
