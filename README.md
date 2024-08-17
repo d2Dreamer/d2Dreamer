@@ -4,6 +4,7 @@ UK-based Full Stack Developer, involved in the Cryptosphere since 2013 and have 
 
 Current Projects:
 - Strike - Web3 Football Club Stocks.
+- Decentratech - Various Web3 dApps.
 
 Past Projects:
 - Web3
