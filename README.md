@@ -36,6 +36,6 @@ Awards:
 
 Contact Details:
 Email - jhughes2702@gmail.com
-Discord - d2dreamer
+Discord - dreamer.dll
 
 Currently open to remote roles.
