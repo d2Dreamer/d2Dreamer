@@ -3,11 +3,11 @@
 UK-based Full Stack Developer, involved in the Cryptosphere since 2013 and have been building in it ever since. 
 
 Current Projects:
-- Strike - Web3 Football Club Stocks.
 - Decentratech - Various Web3 dApps.
 
 Past Projects:
 - Web3
+- - Strike - Web3 Football Club Stocks.
 - - Mining Central - Cryptocurrency Mining Company, bringing mining to Cloud for people to enter the industry without having to run the hardware themselves.
 - - TowneSquare - Web3 Social Media Platform built on Aptos.
 - - Decadent Blockchain Solutions - Bringing Web3 Mobile Gaming to WAXP Network, based on EOS.
