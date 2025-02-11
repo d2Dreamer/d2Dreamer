@@ -3,6 +3,7 @@
 UK-based Full Stack Developer, involved in the Cryptosphere since 2013 and have been building in it ever since. 
 
 Current Projects:
+- Alpaca Network
 - Decentratech - Various Web3 dApps.
 
 Past Projects:
