@@ -4,6 +4,8 @@ UK-based Full Stack Developer, involved in the Cryptosphere since 2013 and have 
 
 Current Projects:
 - Alpaca Network
+- PacaCasino - Solo Project bringing various gambling games to Base Blockchain with fully verifiable fairness onchain.
+- InvestInsight - Track Web3, Stocks & Shares and property assets all in one place, with a social aspect.
 - Decentratech - Various Web3 dApps.
 
 Past Projects:
