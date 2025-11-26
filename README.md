@@ -3,10 +3,11 @@
 UK-based Full Stack Developer, involved in the Cryptosphere since 2013 and have been building in it ever since. 
 
 Current Projects:
-- Alpaca Network
-- PacaCasino - Solo Project bringing various gambling games to Base Blockchain with fully verifiable fairness onchain.
+- Alpaca Network - Web3 Dex & Token Launcher with AI Inference platform
 - InvestInsight - Track Web3, Stocks & Shares and property assets all in one place, with a social aspect.
 - Decentratech - Various Web3 dApps.
+- Utmost Utopia - Car Dealership
+- TM-Hub - Personal project for Trackmania community in which users can track player and campaign stats.
 
 Past Projects:
 - Web3
@@ -39,6 +40,6 @@ Awards:
 
 Contact Details:
 Email - jhughes2702@gmail.com
-Discord - dreamer.dll
+Discord - d2dreamer
 
 Currently open to remote roles.
