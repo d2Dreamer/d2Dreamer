@@ -3,7 +3,6 @@
 UK-based Full Stack Developer, involved in the Cryptosphere since 2013 and have been building in it ever since. 
 
 Current Projects:
-- Alpaca Network - Web3 Dex & Token Launcher with AI Inference platform
 - InvestInsight - Track Web3, Stocks & Shares and property assets all in one place, with a social aspect.
 - Decentratech - Various Web3 dApps.
 - Utmost Utopia - Car Dealership
@@ -11,6 +10,7 @@ Current Projects:
 
 Past Projects:
 - Web3
+- - Alpaca Network - Web3 Dex & Token Launcher with AI Inference platform
 - - Strike - Web3 Football Club Stocks.
 - - Mining Central - Cryptocurrency Mining Company, bringing mining to Cloud for people to enter the industry without having to run the hardware themselves.
 - - TowneSquare - Web3 Social Media Platform built on Aptos.
@@ -39,7 +39,7 @@ Awards:
 - Social Media Chief Technology Officer of the Year 2024 - CEO Monthly
 
 Contact Details:
-Email - jhughes2702@gmail.com
+Email - joe@investinsight.io
 Discord - d2dreamer
 
 Currently open to remote roles.
