@@ -40,8 +40,8 @@ Awards:
 - Social Media Chief Technology Officer of the Year 2024 - CEO Monthly
 
 Contact Details:
-Email - joe@investinsight.io
-Discord - d2dreamer
-Book a meeting - https://www.cal.eu/joehughes
+- Email - joe@investinsight.io
+- Discord - d2dreamer
+- Book a meeting - https://www.cal.eu/joehughes
 
 Currently open to remote roles.
