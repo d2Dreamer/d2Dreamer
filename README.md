@@ -4,7 +4,7 @@ UK-based Full Stack Developer, involved in the Cryptosphere since 2013 and have 
 
 Current Projects:
 - InvestInsight - Track Web3, Stocks & Shares and property assets all in one place, with a social aspect.
-- Decentratech - Various Web3 dApps.
+- UKAgencies - Directory of UK based agencies.
 - Utmost Utopia - Car Dealership
 - TM-Hub - Personal project for Trackmania community in which users can track player and campaign stats.
 
@@ -12,6 +12,7 @@ Past Projects:
 - Web3
 - - Alpaca Network - Web3 Dex & Token Launcher with AI Inference platform
 - - Strike - Web3 Football Club Stocks.
+- - Decentratech - Various Web3 dApps.
 - - Mining Central - Cryptocurrency Mining Company, bringing mining to Cloud for people to enter the industry without having to run the hardware themselves.
 - - TowneSquare - Web3 Social Media Platform built on Aptos.
 - - Decadent Blockchain Solutions - Bringing Web3 Mobile Gaming to WAXP Network, based on EOS.
@@ -41,5 +42,6 @@ Awards:
 Contact Details:
 Email - joe@investinsight.io
 Discord - d2dreamer
+Book a meeting - https://www.cal.eu/joehughes
 
 Currently open to remote roles.
