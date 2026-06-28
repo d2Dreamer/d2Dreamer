@@ -24,7 +24,7 @@ Portfolio Site: [jhugh.es](https://jhugh.es/)
 - [Strike](https://strike.st/) - Web3 football club tokenisation platform.
 - Decentratech - Portfolio of Web3 dApps across multiple chains.
 - Mining Central - Cloud cryptocurrency mining platform, removing the hardware barrier to entry for everyday miners.
-- [TowneSquare](https://www.townesquare.xyz/) - CTO of the Aptos-native Web3 social superapp. Led engineering on the CRED on-chain social graph (130k+ MAU, largest on Aptos at launch), the mobile superapp, and won multiple hackathons during the build.
+- [TowneSquare](https://www.townesquare.xyz/) - CTO of the Aptos-native Web3 social superapp. Led engineering on the [CRED](https://cred.townesquare.xyz/) on-chain social graph (130k+ MAU, largest on Aptos at launch), the mobile superapp, and won multiple hackathons during the build.
 - Decadent Blockchain Solutions - Web3 mobile gaming on the WAXP network, built on EOS.
 - NextColony - Developer on an NFT space strategy game built on the STEEM blockchain.
 - Crypos - Pioneered collaborative masternode collateral funding with automatic reward reinvestment. Grew to host tens of thousands of masternodes, sold to a Ukrainian team, and contributed early groundwork to what proof-of-stake pooling became.
